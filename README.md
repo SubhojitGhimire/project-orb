@@ -12,7 +12,10 @@ A scientifically accurate, browser-based 3D planetarium that renders the night s
 
 ## Screenshots
 
-<img width="1920" height="1080" alt="Project-Orb-Preview" src="[INSERT_YOUR_SCREENSHOT_LINK_HERE]" />
+<a href="https://huggingface.co/spaces/SubhojitGhimire/project-orb/">
+  <img width="1920" height="1080" alt="Project-Orb-Preview" src="[INSERT_YOUR_SCREENSHOT_LINK_HERE]" />
+<p align="center">Live Demo on Huggingface</p>
+</a>
 
 ## Features
 
